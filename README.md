@@ -1,9 +1,11 @@
 🛍️ Customer Segmentation in a Mall
+
 📌 Project Overview
 This project focuses on segmenting customers in a shopping mall based on their purchasing behavior and demographic details.
 Using clustering techniques, we identify distinct customer groups so that the mall can target them with personalized marketing strategies, improve customer satisfaction, and increase sales.
 
 🎯 Objective
+
 The main objective is to group customers into segments based on:
 
 1. Annual Income
